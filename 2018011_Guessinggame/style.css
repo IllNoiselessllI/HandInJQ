@@ -1,0 +1,73 @@
+#block1
+{
+    background-color:red;
+    position: absolute;
+    height: 100px;
+    width: 350px; 
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+#block2
+{
+    background-color:green;
+    position: absolute;
+    height: 100px;
+    width: 350px;   
+    margin-top: 10px;
+    margin-left: 365px;
+}
+
+#block3
+{
+    background-color:blue;
+    position: absolute;
+    height: 100px;
+    width: 350px;   
+    margin-top: 10px;
+    margin-left: 720px;
+}
+
+
+#steuern_rot
+{
+    background-color:grey;
+    position: absolute;
+    height: 100px;
+    width: 175px;   
+    margin-top: 120px;
+    margin-left: 5px;
+}
+
+
+#steuern_gruen
+{
+    background-color:grey;
+    position: absolute;
+    height: 100px;
+    width: 175px;   
+    margin-top: 120px;
+    margin-left: 365px;
+}
+
+
+#steuern_blau
+{
+    background-color:grey;
+    position: absolute;
+    height: 100px;
+    width: 175px;   
+    margin-top: 120px;
+    margin-left: 720px;
+}
+
+#ratespiel
+{
+    background-color:lightgreen;
+    position: absolute;
+    height: 100px;
+    width: 890px;   
+    margin-top: 240px;
+    margin-left: 5px;
+    
+}
